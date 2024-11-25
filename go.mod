@@ -4,6 +4,7 @@ go 1.23.2
 
 require (
 	github.com/gogf/gf v1.16.9
+	github.com/jmoiron/sqlx v1.4.0
 	github.com/redis/go-redis/v9 v9.7.0
 )
 
